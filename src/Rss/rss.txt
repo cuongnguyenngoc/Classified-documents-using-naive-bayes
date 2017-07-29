@@ -1,0 +1,9 @@
+http://vietnamnet.vn/rss/chinh-tri.rss
+http://vietnamnet.vn/rss/giao-duc.rss
+http://vietnamnet.vn/rss/du-lich.rss
+http://vietnamnet.vn/rss/chia-se.rss
+http://vietnamnet.vn/rss/cong-nghe-thong-tin-vien-thong.rss
+http://vietnamnet.vn/rss/doi-song.rss
+http://vietnamnet.vn/rss/kinh-te.rss
+http://vietnamnet.vn/rss/quoc-te.rss
+http://vietnamnet.vn/rss/van-hoa.rss
